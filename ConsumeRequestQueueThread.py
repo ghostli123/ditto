@@ -10,7 +10,7 @@ class ConsumeRequestQueueThread(threading.Thread):
         self.growingTreeArray = []
         self.growingTreeIndex = 0
         self.lock = threading.Lock()
-    
+        
     def growingTreeCallBack(self, index):
         #print "to delete growing tree index;", index, len(self.growingTreeArray)
         #self.growingTreeArray[index].__join__()
