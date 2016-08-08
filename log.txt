@@ -1,0 +1,287 @@
+sniff start Time:	1470261621.85
+consume start Time:	1470261621.85
+no trees	0	['request', '1460025988.544749000', '192.168.0.128', '173.236.74.28', '1038', '80', '2diabetestreatment.com', '/1278u0', 'http://2diabetestreatment.com/1278u0', '*/*', '', '6']flag == False	1	['request', '1460014547.506399000', '192.168.0.35', '64.69.66.200', '1038', '80', 'heatherbakerevents.com', '/1278u0', 'http://heatherbakerevents.com/1278u0', '*/*', '', '19']
+flag == False	2	['request', '1460023594.278695000', '192.168.0.153', '5.101.152.83', '1038', '80', 'nonamenofear.ru', '/1278u0', 'http://nonamenofear.ru/1278u0', '*/*', '', '32']
+flag == False	3	['request', '1459982533.023664000', '192.168.0.124', '5.101.152.66', '1038', '80', 'mrsweeter.ru', '/1278u0', 'http://mrsweeter.ru/1278u0', '*/*', '', '69']
+flag == False	4	['request', '1460012043.303411000', '192.168.0.116', '5.101.152.66', '1037', '80', 'mrsweeter.ru', '/1278u0', 'http://mrsweeter.ru/1278u0', '*/*', '', '79']
+flag == False	5	['request', '1459996691.936109000', '192.168.0.53', '109.235.139.64', '1037', '80', 'bmg.de', '/', 'http://bmg.de/', '', '', '89']
+flag == False	6	['request', '1460015668.420146000', '192.168.0.132', '84.21.7.135', '1038', '80', 'vestastudio.hu', '/1278u0', 'http://vestastudio.hu/1278u0', '*/*', '', '124']
+flag == False	7	['request', '1460015784.173865000', '192.168.0.52', '85.143.209.13', '1038', '80', 'shop.bleutree.biz', '/tablets/galaxytab3.php', 'http://shop.bleutree.biz/tablets/galaxytab3.php', '*/*', '', '136']
+flag == False	8	['request', '1459993217.154895000', '192.168.0.83', '188.40.44.195', '1038', '80', 'bh.ars.ayz.pl', '/1278u0', 'http://bh.ars.ayz.pl/1278u0', '*/*', '', '356']
+flag == False	9	['request', '1460020774.131518000', '192.168.0.64', '64.69.66.200', '1038', '80', 'heatherbakerevents.com', '/1278u0', 'http://heatherbakerevents.com/1278u0', '*/*', '', '368']
+flag == False	10	['request', '1459974477.938796000', '192.168.0.58', '193.243.158.18', '1038', '80', 'mediscan.com.ua', '/1278u0', 'http://mediscan.com.ua/1278u0', '*/*', '', '380']
+flag == False	11	['request', '1460025343.505990000', '192.168.0.50', '104.27.166.24', '1038', '80', 'mapstor.org', '/1278u0', 'http://mapstor.org/1278u0', '*/*', '', '413']
+flag == False	12	['request', '1459983752.928674000', '192.168.0.126', '46.254.20.38', '1036', '80', 'fima912.com', '/1278u0', 'http://fima912.com/1278u0', '*/*', '', '426']
+flag == False	13	['request', '1459983754.765638000', '192.168.0.126', '109.235.139.64', '1038', '80', 'bmg.de', '/', 'http://bmg.de/', '', '', '481']
+flag == False	14	['request', '1460023726.379075000', '192.168.0.155', '5.101.152.66', '1038', '80', 'mrsweeter.ru', '/1278u0', 'http://mrsweeter.ru/1278u0', '*/*', '', '517']
+flag == False	15	['request', '1460028281.560669000', '192.168.0.200', '84.21.7.135', '1038', '80', 'vestastudio.hu', '/1278u0', 'http://vestastudio.hu/1278u0', '*/*', '', '527']
+flag == False	16	['request', '1460029230.613521000', '192.168.0.63', '184.154.132.107', '1038', '80', 'vnnsports.com', '/1278u0', 'http://vnnsports.com/1278u0', '*/*', '', '539']
+watchDog set threadEvent
+unmatch
+merge ends|1|[(set(['173.236.74.28']), set(['1038']), set(['2diabetestreatment.com']), set(['/1278u0']), set(['6']), 1)]
+duration:	5.00865888596
+average duration:	5.00869989395
+end Time:	1470261627.2
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28']), set(['1038']), set(['2diabetestreatment.com']), set(['/1278u0']), set(['6']), 1)
+match
+merge ends|1|[(set(['173.236.74.28', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'heatherbakerevents.com']), set(['/1278u0']), set(['19', '6']), '2')]
+duration:	5.00943517685
+average duration:	5.00908851624
+end Time:	1470261627.43
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'heatherbakerevents.com']), set(['/1278u0']), set(['19', '6']), '2')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.83', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com']), set(['/1278u0']), set(['19', '32', '6']), '3')]
+duration:	5.0095539093
+average duration:	5.00925366084
+end Time:	1470261627.74
+flag == False	17	['request', '1460017080.247340000', '192.168.0.88', '64.69.66.200', '1038', '80', 'heatherbakerevents.com', '/1278u0', 'http://heatherbakerevents.com/1278u0', '*/*', '', '588']
+flag == False	18	['request', '1460029688.632482000', '192.168.0.238', '5.101.153.31', '1038', '80', 'lynnirons.ru', '/1278u0', 'http://lynnirons.ru/1278u0', '*/*', '', '600']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.83', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com']), set(['/1278u0']), set(['19', '32', '6']), '3')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['19', '32', '69', '6']), '4')]
+duration:	5.00942897797
+average duration:	5.00931298733
+end Time:	1470261628.12
+flag == False	19	['request', '1459987229.453082000', '192.168.0.23', '184.154.132.107', '1038', '80', 'vnnsports.com', '/1278u0', 'http://vnnsports.com/1278u0', '*/*', '', '613']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200']), set(['1038']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['19', '32', '69', '6']), '4')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200']), set(['1038', '1037']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['19', '32', '6', '79', '69']), '5')]
+duration:	5.00930595398
+average duration:	5.00931801796
+end Time:	1470261628.33
+flag == False	20	['request', '1460030033.880105000', '192.168.0.164', '104.27.167.24', '1038', '80', 'mapstor.org', '/1278u0', 'http://mapstor.org/1278u0', '*/*', '', '626']
+flag == False	21	['request', '1459985623.468884000', '192.168.0.153', '184.154.132.107', '1038', '80', 'vnnsports.com', '/1278u0', 'http://vnnsports.com/1278u0', '*/*', '', '639']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200']), set(['1038', '1037']), set(['2diabetestreatment.com', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['19', '32', '6', '79', '69']), '5')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200', '84.21.7.135']), set(['1038', '1037']), set(['2diabetestreatment.com', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['124', '69', '19', '32', '6', '79']), '6')]
+duration:	5.01088190079
+average duration:	5.00958836079
+end Time:	1470261628.8
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '5.101.152.83', '64.69.66.200', '84.21.7.135']), set(['1038', '1037']), set(['2diabetestreatment.com', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru']), set(['/1278u0']), set(['124', '69', '19', '32', '6', '79']), '6')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135']), set(['1038', '1037']), set(['vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['124', '136', '32', '19', '69', '6', '79']), '7')]
+duration:	5.00901889801
+average duration:	5.00951143673
+end Time:	1470261629.02
+flag == False	22	['request', '1459971832.254961000', '192.168.0.12', '104.27.167.24', '1038', '80', 'mapstor.org', '/1278u0', 'http://mapstor.org/1278u0', '*/*', '', '652']
+flag == False	23	['request', '1459979179.569019000', '192.168.0.50', '173.236.74.28', '1038', '80', '2diabetestreatment.com', '/1278u0', 'http://2diabetestreatment.com/1278u0', '*/*', '', '677']
+flag == False	24	['request', '1459982381.199822000', '192.168.0.74', '188.40.44.195', '1038', '80', 'pizzaprimo.pl', '/1278u0', 'http://pizzaprimo.pl/1278u0', '*/*', '', '690']
+flag == False	25	['request', '1460015555.078102000', '192.168.0.42', '104.27.167.24', '1038', '80', 'mapstor.org', '/1278u0', 'http://mapstor.org/1278u0', '*/*', '', '702']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135']), set(['1038', '1037']), set(['vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['124', '136', '32', '19', '69', '6', '79']), '7')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['ayz.pl', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['356', '124', '136', '69', '19', '32', '6', '79']), '8')]
+duration:	5.01162409782
+average duration:	5.00978064537
+end Time:	1470261629.8
+flag == False	26	['request', '1459976635.734367000', '192.168.0.55', '208.85.241.122', '1037', '80', 'enba.mx', '/1278u0', 'http://enba.mx/1278u0', '*/*', '', '715']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['ayz.pl', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['356', '124', '136', '69', '19', '32', '6', '79']), '8')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['2diabetestreatment.com', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', 'ayz.pl', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '356', '124', '136', '368', '6', '69', '79']), '9')]
+duration:	5.01259207726
+average duration:	5.01009890768
+end Time:	1470261630.09
+flag == False	27	['request', '1459976639.177705000', '192.168.0.55', '109.235.139.64', '1039', '80', 'bmg.de', '/', 'http://bmg.de/', '', '', '766']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['2diabetestreatment.com', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', 'ayz.pl', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '356', '124', '136', '368', '6', '69', '79']), '9')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['ayz.pl', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '380', '356', '124', '136', '368', '6', '69', '79']), '10')]
+duration:	5.02796792984
+average duration:	5.01189322472
+end Time:	1470261630.37
+flag == False	28	['request', '1460023867.476348000', '192.168.0.102', '64.69.66.200', '1038', '80', 'heatherbakerevents.com', '/1278u0', 'http://heatherbakerevents.com/1278u0', '*/*', '', '818']
+flag == False	29	['request', '1459980100.239927000', '192.168.0.222', '193.243.158.18', '1035', '80', 'mediscan.com.ua', '/1278u0', 'http://mediscan.com.ua/1278u0', '*/*', '', '831']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '85.143.209.13', '5.101.152.83', '64.69.66.200', '84.21.7.135', '188.40.44.195']), set(['1038', '1037']), set(['ayz.pl', 'vestastudio.hu', 'nonamenofear.ru', 'heatherbakerevents.com', 'mrsweeter.ru', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '380', '356', '124', '136', '368', '6', '69', '79']), '10')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '64.69.66.200', '104.27.166.24']), set(['1038', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'mapstor.org', '2diabetestreatment.com', 'vestastudio.hu', 'com.ua', 'heatherbakerevents.com', 'ayz.pl', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '413', '380', '356', '124', '136', '368', '6', '69', '79']), '11')]
+duration:	5.00971007347
+average duration:	5.01169766079
+end Time:	1470261630.77
+flag == False	30	['request', '1460029711.120527000', '192.168.0.27', '208.85.241.122', '1038', '80', 'enba.mx', '/1278u0', 'http://enba.mx/1278u0', '*/*', '', '865']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '64.69.66.200', '104.27.166.24']), set(['1038', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'mapstor.org', '2diabetestreatment.com', 'vestastudio.hu', 'com.ua', 'heatherbakerevents.com', 'ayz.pl', 'bleutree.biz']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '413', '380', '356', '124', '136', '368', '6', '69', '79']), '11')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '6', '380', '356', '124', '136', '368', '413', '69', '79', '426']), '12')]
+duration:	5.01791810989
+average duration:	5.01222020388
+end Time:	1470261631.11
+flag == False	31	['request', '1460029713.695829000', '192.168.0.27', '109.235.139.64', '1040', '80', 'bmg.de', '/', 'http://bmg.de/', '', '', '913']
+flag == False	32	['request', '1460029714.660352000', '192.168.0.27', '185.103.252.148', '1043', '80', '185.103.252.148', '/files/2dQhDf.exe', 'http://185.103.252.148/files/2dQhDf.exe', '', '', '939']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['19', '32', '6', '380', '356', '124', '136', '368', '413', '69', '79', '426']), '12')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', '2diabetestreatment.com', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['517', '19', '32', '413', '380', '356', '124', '136', '368', '6', '69', '79', '426']), '13')]
+duration:	5.01062393188
+average duration:	5.01209895427
+end Time:	1470261631.65
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', '2diabetestreatment.com', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['517', '19', '32', '413', '380', '356', '124', '136', '368', '6', '69', '79', '426']), '13')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['79', '19', '32', '6', '380', '356', '527', '124', '136', '368', '413', '69', '517', '426']), '14')]
+duration:	5.01084208488
+average duration:	5.01201767581
+end Time:	1470261631.86
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['79', '19', '32', '6', '380', '356', '527', '124', '136', '368', '413', '69', '517', '426']), '14')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', '2diabetestreatment.com', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['517', '19', '32', '413', '380', '356', '527', '124', '136', '368', '6', '69', '539', '79', '426']), '15')]
+duration:	5.00938606262
+average duration:	5.01184557279
+end Time:	1470261632.12
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', '2diabetestreatment.com', 'vestastudio.hu', 'mapstor.org', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/1278u0']), set(['517', '19', '32', '413', '380', '356', '527', '124', '136', '368', '6', '69', '539', '79', '426']), '15')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '109.235.139.64', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1040', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['481', '79', '19', '32', '6', '380', '356', '527', '124', '136', '368', '413', '69', '490', '539', '517', '426']), '16')]
+duration:	6.01004600525
+average duration:	5.07423564792
+end Time:	1470261632.28
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '109.235.139.64', '193.243.158.18', '5.101.152.83', '85.143.209.13', '84.21.7.135', '188.40.44.195', '46.254.20.38', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1040', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['481', '79', '19', '32', '6', '380', '356', '527', '124', '136', '368', '413', '69', '490', '539', '517', '426']), '16')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1040', '1039', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['561', '413', '552', '380', '98', '89', '124', '136', '69', '490', '481', '517', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '17')]
+duration:	9.01644587517
+average duration:	5.30613231659
+end Time:	1470261632.57
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1040', '1039', '1036', '1037']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['561', '413', '552', '380', '98', '89', '124', '136', '69', '490', '481', '517', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '17')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '19', '32', '356', '527', '79', '368', '413', '539', '517', '426']), '18')]
+duration:	5.01499700546
+average duration:	5.28996185462
+end Time:	1470261632.78
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '19', '32', '356', '527', '79', '368', '413', '539', '517', '426']), '18')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '517', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '19')]
+duration:	5.01002311707
+average duration:	5.27522981794
+end Time:	1470261633.01
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '517', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '19')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '613', '19', '32', '356', '527', '79', '368', '413', '539', '517', '426']), '20')]
+duration:	5.00931692123
+average duration:	5.26193817854
+end Time:	1470261633.29
+flag == False	33	['request', '1460029764.440070000', '192.168.0.27', '109.235.139.64', '1044', '80', 'bmg.de', '/', 'http://bmg.de/', '', '', '1655']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '613', '19', '32', '356', '527', '79', '368', '413', '539', '517', '426']), '20')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '517', '613', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '21')]
+duration:	5.00881695747
+average duration:	5.24988612675
+end Time:	1470261633.59
+flag == False	34	['request', '1460029779.920336000', '192.168.0.27', '185.130.7.22', '1049', '80', 'fifterax.com', '/2Ty8AT8522zaRo9R/r56.php', 'http://fifterax.com/2Ty8AT8522zaRo9R/r56.php', '*/*', '', '1709']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '517', '613', '19', '32', '356', '527', '79', '368', '6', '539', '426']), '21')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '613', '19', '32', '356', '639', '527', '79', '368', '413', '539', '517', '426']), '22')]
+duration:	5.00831389427
+average duration:	5.23890680617
+end Time:	1470261633.8
+flag == False	35	['request', '1459976789.076475000', '192.168.0.212', '188.40.44.195', '1036', '80', 'pizzaprimo.pl', '/1278u0', 'http://pizzaprimo.pl/1278u0', '*/*', '', '1735']
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '613', '19', '32', '356', '639', '527', '79', '368', '413', '539', '517', '426']), '22')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '517', '613', '19', '32', '356', '527', '652', '79', '368', '6', '539', '639', '426']), '23')]
+duration:	5.0077829361
+average duration:	5.22885846055
+end Time:	1470261634.06
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '413', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '517', '613', '19', '32', '356', '527', '652', '79', '368', '6', '539', '639', '426']), '23')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['677', '600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '613', '19', '32', '356', '639', '527', '652', '79', '368', '413', '539', '517', '426']), '24')]
+duration:	5.00883817673
+average duration:	5.21969177326
+end Time:	1470261634.32
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['677', '600', '561', '6', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '613', '19', '32', '356', '639', '527', '652', '79', '368', '413', '539', '517', '426']), '24')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '677', '690', '588', '552', '380', '98', '89', '124', '136', '69', '413', '490', '481', '626', '517', '613', '19', '32', '356', '527', '652', '79', '368', '6', '539', '639', '426']), '25')]
+duration:	5.0109899044
+average duration:	5.21134461403
+end Time:	1470261634.54
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '561', '677', '690', '588', '552', '380', '98', '89', '124', '136', '69', '413', '490', '481', '626', '517', '613', '19', '32', '356', '527', '652', '79', '368', '6', '539', '639', '426']), '25')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['6', '600', '613', '561', '677', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '690', '19', '32', '356', '639', '527', '652', '79', '368', '413', '702', '539', '517', '426']), '26')]
+duration:	5.01143193245
+average duration:	5.20365616908
+end Time:	1470261634.75
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'bmg.de', 'vnnsports.com', 'lynnirons.ru', 'ayz.pl', 'vestastudio.hu', 'mapstor.org', 'bmg.com', 'heatherbakerevents.com', 'fima912.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['6', '600', '613', '561', '677', '588', '552', '380', '98', '89', '124', '136', '69', '490', '481', '626', '690', '19', '32', '356', '639', '527', '652', '79', '368', '413', '702', '539', '517', '426']), '26')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '613', '715', '677', '561', '552', '380', '98', '89', '124', '588', '69', '413', '490', '481', '626', '517', '690', '19', '32', '356', '527', '652', '79', '368', '6', '702', '426', '539', '639', '136']), '27')]
+duration:	5.00875091553
+average duration:	5.19643816242
+end Time:	1470261634.96
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vnnsports.com', 'mapstor.org', 'lynnirons.ru', '2diabetestreatment.com', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'heatherbakerevents.com', 'bleutree.biz', 'ayz.pl', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '613', '715', '677', '561', '552', '380', '98', '89', '124', '588', '69', '413', '490', '481', '626', '517', '690', '19', '32', '356', '527', '652', '79', '368', '6', '702', '426', '539', '639', '136']), '27')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['6', '600', '613', '715', '677', '136', '588', '552', '380', '98', '89', '124', '702', '69', '413', '490', '481', '626', '690', '19', '32', '818', '356', '639', '527', '652', '79', '368', '561', '539', '517', '426']), '28')]
+duration:	5.01365208626
+average duration:	5.18991055659
+end Time:	1470261635.44
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['6', '600', '613', '715', '677', '136', '588', '552', '380', '98', '89', '124', '702', '69', '413', '490', '481', '626', '690', '19', '32', '818', '356', '639', '527', '652', '79', '368', '561', '539', '517', '426']), '28')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1035', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '702', '552', '89', '136', '69', '490', '626', '517', '690', '831', '818', '527', '652', '79', '368', '6', '561', '426', '613', '715', '677', '588', '380', '98', '124', '481', '19', '32', '356', '539', '413', '639']), '29')]
+duration:	5.00875806808
+average duration:	5.18366453565
+end Time:	1470261635.65
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1038', '1039', '1035', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '702', '552', '89', '136', '69', '490', '626', '517', '690', '831', '818', '527', '652', '79', '368', '6', '561', '426', '613', '715', '677', '588', '380', '98', '124', '481', '19', '32', '356', '539', '413', '639']), '29')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1040', '1036', '1037', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '613', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '639', '527', '652', '481', '368', '6', '426', '561', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '517']), '30')]
+duration:	5.00749492645
+average duration:	5.1777926445
+end Time:	1470261636.03
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1038', '1039', '1040', '1036', '1037', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '613', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '639', '527', '652', '481', '368', '6', '426', '561', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '517']), '30')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1041', '1038', '1039', '1035', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['600', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '79', '368', '639', '561', '426', '775', '677', '613', '715', '6', '588', '380', '98', '124', '481', '19', '32', '865', '356', '517', '413', '539']), '31')]
+duration:	6.00723004341
+average duration:	5.20454897419
+end Time:	1470261636.1
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1041', '1038', '1039', '1035', '1036', '1037', '1040']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['600', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '79', '368', '639', '561', '426', '775', '677', '613', '715', '6', '588', '380', '98', '124', '481', '19', '32', '865', '356', '517', '413', '539']), '31')
+match
+merge ends|1|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1042', '1041', '1039', '1037', '1040', '1036', '1038', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['6', '600', '613', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '481', '368', '561', '913', '426', '775', '639', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '922', '517']), '32')]
+duration:	6.01057195663
+average duration:	5.22973784804
+end Time:	1470261637.15
+watchDog set threadEvent
+unmatch
+merge ends|2|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1042', '1041', '1039', '1037', '1040', '1036', '1038', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['6', '600', '613', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '481', '368', '561', '913', '426', '775', '639', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '922', '517']), '32'), (set(['185.103.252.148']), set(['1043']), set(['185.103.252.148']), set(['/files/o35jkR.exe', '/files/Qlk7Yx.exe', '/files/2dQhDf.exe']), set(['939', '1355', '1163']), 1)]
+duration:	7.01234698296
+average duration:	5.28375697858
+end Time:	1470261638.24
+watchDog set threadEvent
+unmatch
+merge ends|3|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1042', '1041', '1039', '1037', '1040', '1036', '1038', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['6', '600', '613', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '481', '368', '561', '913', '426', '775', '639', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '922', '517']), '32'), (set(['185.103.252.148']), set(['1043']), set(['185.103.252.148']), set(['/files/o35jkR.exe', '/files/Qlk7Yx.exe', '/files/2dQhDf.exe']), set(['939', '1355', '1163']), 1), (set(['185.130.7.22']), set(['1049']), set(['fifterax.com']), set(['/2Ty8AT8522zaRo9R/r56.php']), set(['1709']), 1)]
+duration:	5.00745916367
+average duration:	5.2756312174
+end Time:	1470261638.65
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1042', '1041', '1039', '1037', '1040', '1036', '1038', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['6', '600', '613', '766', '702', '552', '89', '136', '69', '490', '626', '690', '831', '818', '527', '652', '481', '368', '561', '913', '426', '775', '639', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '922', '517']), '32')
+match
+merge ends|3|[(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1042', '1041', '1040', '1038', '1039', '1036', '1037', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '766', '702', '552', '89', '136', '69', '490', '626', '517', '690', '831', '1735', '818', '527', '652', '79', '368', '6', '561', '426', '775', '613', '715', '677', '588', '380', '98', '124', '481', '19', '32', '865', '356', '913', '413', '922', '539', '639']), '33'), (set(['185.103.252.148']), set(['1043']), set(['185.103.252.148']), set(['/files/o35jkR.exe', '/files/Qlk7Yx.exe', '/files/2dQhDf.exe']), set(['939', '1355', '1163']), 1), (set(['185.130.7.22']), set(['1049']), set(['fifterax.com']), set(['/2Ty8AT8522zaRo9R/r56.php']), set(['1709']), 1)]
+duration:	5.00789499283
+average duration:	5.26798218318
+end Time:	1470261638.9
+watchDog set threadEvent
+matched tree feature array:	(set(['173.236.74.28', '5.101.152.66', '104.27.167.24', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '64.69.66.200', '104.27.166.24']), set(['1042', '1041', '1040', '1038', '1039', '1036', '1037', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'bleutree.biz', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'fima912.com', 'com.ua']), set(['/tablets/galaxytab3.php', '/de/', '/', '/1278u0']), set(['600', '766', '702', '552', '89', '136', '69', '490', '626', '517', '690', '831', '1735', '818', '527', '652', '79', '368', '6', '561', '426', '775', '613', '715', '677', '588', '380', '98', '124', '481', '19', '32', '865', '356', '913', '413', '922', '539', '639']), '33')
+match
+merge ends|3|[(set(['173.236.74.28', '5.101.152.66', '64.69.66.200', '193.243.158.18', '5.101.152.83', '109.235.139.64', '84.21.7.135', '188.40.44.195', '46.254.20.38', '208.85.241.122', '5.101.153.31', '85.143.209.13', '184.154.132.107', '104.27.167.24', '104.27.166.24']), set(['1042', '1041', '1040', '1045', '1044', '1038', '1039', '1036', '1037', '1035']), set(['enba.mx', 'nonamenofear.ru', 'mrsweeter.ru', 'pizzaprimo.pl', 'vestastudio.hu', 'bmg.de', 'bmg.com', 'fima912.com', 'ayz.pl', 'mapstor.org', 'vnnsports.com', 'lynnirons.ru', 'heatherbakerevents.com', '2diabetestreatment.com', 'bleutree.biz', 'com.ua']), set(['/de/', '/1278u0', '/tablets/galaxytab3.php', '/']), set(['600', '613', '766', '1661', '702', '552', '89', '136', '69', '490', '626', '690', '831', '1735', '818', '639', '527', '652', '481', '368', '6', '913', '426', '775', '561', '715', '677', '588', '380', '98', '124', '79', '19', '32', '865', '356', '539', '413', '922', '1655', '517']), '34'), (set(['185.103.252.148']), set(['1043']), set(['185.103.252.148']), set(['/files/o35jkR.exe', '/files/Qlk7Yx.exe', '/files/2dQhDf.exe']), set(['939', '1355', '1163']), 1), (set(['185.130.7.22']), set(['1049']), set(['fifterax.com']), set(['/2Ty8AT8522zaRo9R/r56.php']), set(['1709']), 1)]
+duration:	6.00716304779
+average duration:	5.28851537572
+end Time:	1470261639.49
+0	36
